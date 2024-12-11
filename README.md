@@ -28,13 +28,13 @@ Rodrigo Gutiérrez Moreno [@mail](rodrigo.gutierrez@uah.es)
 
 ## Cite this work
 
-@article{202410.1308,
-	doi = {10.20944/preprints202410.1308.v1},
-	url = {https://doi.org/10.20944/preprints202410.1308.v1},
-	year = 2024,
-	month = {October},
-	publisher = {Preprints},
-	author = {Rodrigo Gutierrez-Moreno and Rafael Barea and Elena López-Guillén and Felipe Arango and Fabio Sánchez-García and Luis M. Bergasa},
-	title = {Enhancing Autonomous Driving in Urban Scenarios: A Hybrid Approach with Reinforcement Learning and Classical Control},
-	journal = {Preprints}
-}
+	@article{202410.1308,
+		doi = {10.20944/preprints202410.1308.v1},
+		url = {https://doi.org/10.20944/preprints202410.1308.v1},
+		year = 2024,
+		month = {October},
+		publisher = {Preprints},
+		author = {Rodrigo Gutierrez-Moreno and Rafael Barea and Elena López-Guillén and Felipe Arango and Fabio Sánchez-García and Luis M. Bergasa},
+		title = {Enhancing Autonomous Driving in Urban Scenarios: A Hybrid Approach with Reinforcement Learning and Classical Control},
+		journal = {Preprints}
+	}
