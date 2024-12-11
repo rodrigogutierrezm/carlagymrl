@@ -22,10 +22,6 @@ python3 autopilot.py
 
 You can modify the code in the lines with the annotation "HERE"
 
-## Authors
-
-Rodrigo Gutiérrez Moreno [@mail](rodrigo.gutierrez@uah.es)
-
 ## Cite this work
 
 	@article{202410.1308,
